@@ -1,0 +1,6 @@
+{
+  "name": "UniClassificados - Cidade Universitária (CEP 21941-000)",
+  "description": "Marketplace de classificados focado na Cidade Universitária (CEP 21941-000, Ilha do Fundão) com restrição geográfica de contatos e chat interno.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
